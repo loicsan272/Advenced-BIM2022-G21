@@ -1,0 +1,107 @@
+﻿WEBVTT
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2708-0
+00:00:30.062 --> 00:00:34.448
+Old tool takes this ratio,
+merged it with the volume
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2708-1
+00:00:34.448 --> 00:00:39.578
+information on the IFC model
+that calculates the densities of
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2708-2
+00:00:39.578 --> 00:00:44.956
+the elements and their weights.
+Now we will explain how the code
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2708-3
+00:00:44.956 --> 00:00:45.452
+works.
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2777-0
+00:00:46.402 --> 00:00:51.070
+I am late and I explained the
+code so our tools take the
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2777-1
+00:00:51.070 --> 00:00:56.229
+information of the steel ratio
+on the concrete density in a in
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2777-2
+00:00:56.229 --> 00:01:01.225
+an Excel file and then it use
+the volume of the element that
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2777-3
+00:01:01.225 --> 00:01:06.384
+we find in the IFC file in order
+to get all the values that it
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2777-4
+00:01:06.384 --> 00:01:11.707
+need we need and and then it put
+everything in an Excel file for
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2777-5
+00:01:11.707 --> 00:01:14.982
+the output using an product data
+frame.
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2789-0
+00:01:15.772 --> 00:01:21.102
+And so nakaa will talk about the
+BPMN.
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2797-0
+00:01:23.792 --> 00:01:26.882
+Hi I am nakaa I would present.
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2816-0
+00:01:27.022 --> 00:01:32.784
+And and a process map of our
+tool and in the upper part
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2816-1
+00:01:32.784 --> 00:01:38.442
+reference information we use the
+geographic geometric.
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2867-0
+00:01:38.522 --> 00:01:44.773
+Yeah, properties and in the
+pillow part here where the
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2867-1
+00:01:44.773 --> 00:01:51.591
+exchange information exchange
+and we use this as a input 3D
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2867-2
+00:01:51.591 --> 00:01:57.955
+model design input and the
+document document output and
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2867-3
+00:01:57.955 --> 00:02:04.432
+design model output in the
+middle here the how our tool.
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2887-0
+00:02:04.572 --> 00:02:09.529
+And develop from the initial
+design model to the developed
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2887-1
+00:02:09.529 --> 00:02:13.562
+design model and the develop
+code to calculate.
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2894-0
+00:02:13.742 --> 00:02:16.792
+And and and volume.
+
+7280ef57-26cf-4c84-a4c7-cf11a7d7d299/2896-0
+00:02:18.792 --> 00:02:19.172
+I.
